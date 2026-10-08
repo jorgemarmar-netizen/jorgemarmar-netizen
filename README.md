@@ -29,6 +29,19 @@ También estamos estudiando:
 - Markdown
 - Diagramas entidad-relación.
 - Bucles.
+
+
+
 [Web del colegoio](https://sanviatorvalladolid.com)
 
+
+Instrucciones para crar un fichero:
+
+1. Primero, sitúate en el directorio que quieras con el comando `cd <directorio>`
+2. Ejecuta el comando `touch <directorio>`
+
+
+---Otra sección
+Segunda sección
+Tercera sección
 
