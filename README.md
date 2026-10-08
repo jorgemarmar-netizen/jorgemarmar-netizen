@@ -14,3 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+#***Jorge***
+##**Alumno**
+###Me gusta *programar*
+
+
+Estamos aprendiendo:
+1. Programación
+2. Bases de datos
+3. Entornos de desarrollo.
+
+
+También estamos estudiando:
+- Markdown
+- Diagramas entidad-relación.
+- Bucles.
+[Web del colegoio](https://sanviatorvalladolid.com)
+
+
